@@ -1,6 +1,6 @@
 # rekognition_cloud
 
-#Brief explanation
+## Brief explanation</br>
 1)I have created a model to determine whether the image contains dog or cat:</br>
 2)The training data and the testing data is provided.</br>
 3)The output,accuracy images are in recoknition file.</br>
